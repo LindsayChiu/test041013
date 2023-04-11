@@ -1,8 +1,6 @@
 <template>
-  <NuxtLayout name="default">
-    <div>
-      <p>這是首頁</p>
-      <slot />
-    </div>
-  </NuxtLayout>
+  <div>
+    <p>這是首頁</p>
+    <slot />
+  </div>
 </template>

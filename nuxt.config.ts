@@ -4,7 +4,6 @@ export default defineNuxtConfig({
   modules: ["nuxt-quasar-ui", "nuxt-icon"],
 
   quasar: {
-    css: ["app.sass", "page.sass"],
     /* */
   },
 });
