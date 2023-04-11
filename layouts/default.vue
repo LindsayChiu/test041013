@@ -1,6 +1,6 @@
 <template>
   <div>
     <BaseHeader />
-    <!-- <BaseFooter /> -->
+    <BaseFooter />
   </div>
 </template>

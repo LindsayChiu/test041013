@@ -1,7 +1,7 @@
 <template>
   <q-layout view="hHh lpR fff">
     <q-header class="bg-primary text-white" height-hint="98">
-      <BaseApplySearch />
+      <BaseApplyLogin />
       <q-toolbar>
         <q-toolbar-title>
           <q-avatar>
@@ -9,7 +9,7 @@
           </q-avatar>
           Title
         </q-toolbar-title>
-        <BaseApplyLogin />
+        <BaseApplySearch />
       </q-toolbar>
 
       <q-tabs align="center">

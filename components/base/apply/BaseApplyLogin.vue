@@ -1,5 +1,5 @@
 <template>
-  <div class="q-pa-md q-gutter-md">
+  <div class="q-pa-md q-gutter-md" align="right">
     <a href="#">
       <q-btn color="teal">
         <q-icon left size="3em" :name="matAccountCircle" />
