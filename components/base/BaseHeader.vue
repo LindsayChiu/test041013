@@ -1,9 +1,9 @@
 <template>
   <q-layout view="hHh lpR fff">
-    <q-header class="bg-primary text-white" height-hint="98">
+    <q-header class="bg-white text-primary" height-hint="98">
       <BaseApplyLogin />
       <q-toolbar>
-        <q-toolbar-title>
+        <q-toolbar-title class="bg-white text-primary">
           <q-avatar>
             <img src="https://cdn.quasar.dev/logo-v2/svg/logo-mono-white.svg" />
           </q-avatar>
