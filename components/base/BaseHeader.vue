@@ -7,17 +7,17 @@
           <q-avatar>
             <img src="https://cdn.quasar.dev/logo-v2/svg/logo-mono-white.svg" />
           </q-avatar>
-          Title
+          心閱網
         </q-toolbar-title>
         <BaseApplySearch />
       </q-toolbar>
 
       <q-tabs align="center">
-        <q-route-tab to="/page1" label="Page One" />
-        <q-route-tab to="/page2" label="Page Two" />
-        <q-route-tab to="/page3" label="Page Three" />
-        <q-route-tab to="/page4" label="Page Four" />
-        <q-route-tab to="/page5" label="Page Five" />
+        <q-route-tab to="/page1" label="所有文章" />
+        <q-route-tab to="/page2" label="智慧小語" />
+        <q-route-tab to="/page3" label="出版專區" />
+        <q-route-tab to="/page4" label="活動專區" />
+        <q-route-tab to="/page5" label="影音專區" />
       </q-tabs>
     </q-header>
 

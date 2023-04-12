@@ -1,8 +1,8 @@
 <template>
   <q-layout view="hHh lpR fff">
-    <q-page-container>
+    <!-- <q-page-container>
       <router-view />
-    </q-page-container>
+    </q-page-container> -->
 
     <q-footer class="bg-grey-8 text-white">
       <q-toolbar>

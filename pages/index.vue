@@ -1,6 +1,8 @@
 <template>
   <div>
-    <p>這是首頁</p>
-    <slot />
+    <BaseCarousel />
+    <BaseCard />
+    <BaseCard />
+    <BaseCard />
   </div>
 </template>
